@@ -40,3 +40,4 @@ def test_get_score_4():
     assert (
         result == expected
     ), "Verifique se sua função está retornando exatamente a string pedida"
+    
